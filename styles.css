@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 8%);
+}
+.container {
+  background-color: hsl(0, 0%, 12%);
+  width: 350px;
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+}
+.profile-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+.name {
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+}
+.location {
+  font-size: 14px;
+  color: hsl(75, 94%, 57%);
+  font-weight: 600;
+  margin: 10px 0 30px;
+}
+.bio {
+  font-size: 14px;
+  color: hsl(0, 0%, 85%);
+  margin-bottom: 15px;
+  font-weight: 300;
+}
+.links button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 8px;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.links button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+}
