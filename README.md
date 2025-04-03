@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://github.com/Congroooooo/QR-code-component). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://github.com/Congroooooo/Social-links-profile). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](Social-links-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Congroooooo/QR-code-component)
-- Live Site URL: [Add live site URL here](https://congroooooo.github.io/QR-code-component/)
+- Solution URL: [Add solution URL here](https://github.com/Congroooooo/Social-links-profile)
+- Live Site URL: [Add live site URL here](https://congroooooo.github.io/Social-links-profile/)
 
 ## My process
 
